@@ -45,8 +45,9 @@ campo opcional: cidade
 
 >>>>>cidade: Curitiba
 
-nome: Gustavo
-idade: 20
+>>>>>nome: Gustavo
+
+>>>>>idade: 20
 
 
 >>>>>4 - filtrar por nomes e campos
