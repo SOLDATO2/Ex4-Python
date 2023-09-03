@@ -31,7 +31,7 @@ Exemplo:
 
 campos obrigatorios: nome,idade
 
-Usuarios registados:
+Usuarios registrados:
 
 nome: Felipe
 idade: 18
