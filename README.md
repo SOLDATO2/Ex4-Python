@@ -33,14 +33,17 @@ campos obrigatorios: nome,idade
 
 Usuarios registrados:
 
-nome: Felipe
-idade: 18
+>>>>>nome: Felipe
+
+>>>>>idade: 18
 
 campo opcional: cidade
 
-nome: Alexandre
-idade: 19
-cidade: Curitiba
+>>>>>nome: Alexandre
+
+>>>>>idade: 19
+
+>>>>>cidade: Curitiba
 
 nome: Gustavo
 idade: 20
@@ -54,4 +57,4 @@ Digite campos para busca separados por ',' (exemplo: nome,idade): cidade
 
 Digite um valor para cidade: Curitiba
 
-{'nome': 'Alexandre', 'idade': '19', 'cidade': 'Curitiba'}
+>>>>>{'nome': 'Alexandre', 'idade': '19', 'cidade': 'Curitiba'}
